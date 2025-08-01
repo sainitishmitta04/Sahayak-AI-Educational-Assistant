@@ -1,0 +1,18 @@
+**CENTRAL TOPIC: Food Cycle**
+**MAIN BRANCHES (Level 1):**
+Branch 1: Producers
+  ├── Sub-branch 1.1: Plants
+  │   └── 1.1.1: Photosynthesis
+  └── Sub-branch 1.2: Algae
+      └── 1.2.1:  Phytoplankton
+Branch 2: Consumers
+  ├── Sub-branch 2.1: Herbivores
+  │   └── 2.1.1: Cows, Rabbits
+  └── Sub-branch 2.2: Carnivores
+      └── 2.2.1: Lions, Sharks
+Branch 3: Decomposers
+  ├── Sub-branch 3.1: Bacteria
+  └── Sub-branch 3.2: Fungi
+      └── 3.2.1: Mushrooms
+
+
