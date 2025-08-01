@@ -1,0 +1,31 @@
+Multi Agent Orchestration - AgentRouter + AgentManager
+
+who is Abdul kalam?
+DoubtAssistantAgent
+
+create a mind map on food cycle
+Mindmapagent
+
+generate story on hereditary concept for grade 7 students
+contentgeneration_agent
+
+provide the extracted text from the image
+vision_agent
+
+explain about photosynthesis for blind people in braille
+braille_assistant_agent
+
+what is this document about?
+RAG_agent
+
+GameGeneratorAgent(puzzle-mobile-games-creator)
+
+VideoAgent
+
+Multilingual Support + MultiGrade Systems
+
+
+Additional Agents:
+LessonPlannerAgents
+DrawingAgent
+
